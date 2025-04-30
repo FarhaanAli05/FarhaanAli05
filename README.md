@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Farhaan 👋</h1>
+<h1 align="center">Farhaan Ali</h1>
 <h3 align="center">Currently exploring web development and software design</h3>
 
 <h3 align="left">Connect with me:</h3>
