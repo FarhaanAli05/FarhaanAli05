@@ -24,7 +24,7 @@
 ---
 
 ### 📂 Featured Projects
-- 🎬 [**Unicritic**](https://unicritic.vercel.app/) - Aggregates reviews from IMDb, Rotten Tomatoes & Letterboxd into one “Uniscore”  
+- 🎬 [**Unicritic**](https://unicritic.vercel.app/) - Aggregates reviews from multiple platforms (IMDb, Rotten Tomatoes, Letterboxd, and others) into one **“Uniscore”**
 - 🗂️ [**PostList**](https://github.com/FarhaanAli05/postlist) - Full-stack productivity app with React + Django REST Framework  
 - ♻️ [**Dump It Like It’s Hot**](https://devpost.com/software/dump-it-like-its-hot) - Gamified litter-collection app built at Hack the Valley X
 
