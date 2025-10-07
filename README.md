@@ -1,10 +1,36 @@
-<h1 align="center">Hi there, I'm Farhaan 👋</h1>
-<h3 align="center">Currently exploring web development and software design</h3>
+# 👋 Hi, I'm Farhaan Ali
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/farhaan-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhaan-ali" height="30" width="40" /></a>
-</p>
+🎓 Computing student at Queen’s University specializing in **Software Design**  
+💡 Exploring the intersection of **full-stack development**, **data visualization**, and **UI/UX design**  
+🚀 I enjoy building applications that combine clean interfaces with efficient, reliable backend logic
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 Currently Learning
+- **Mobile app development** and cross-platform design principles  
+- Building scalable full-stack systems with **React**, **Next.js**, and **Node.js**  
+- Creating smoother user experiences through thoughtful design and performance optimization
+
+---
+
+### 🛠️ Languages & Tools
+**Frontend:** React · Next.js · Tailwind CSS · HTML · CSS  
+**Backend:** Node.js · Express · Flask  
+**Languages:** JavaScript/TypeScript · Python · Java · C · SQL · Bash  
+**Databases:** MongoDB · SQLite  
+**Design:** Figma · Illustrator · Photoshop  
+**Other:** Git · Linux · Postman · AWS
+
+---
+
+### 📂 Featured Projects
+- 🎬 [**Unicritic**](https://unicritic.vercel.app/) - Aggregates reviews from IMDb, Rotten Tomatoes & Letterboxd into one “Uniscore”  
+- 🗂️ [**PostList**](https://github.com/FarhaanAli05/postlist) - Full-stack productivity app with React + Django REST Framework  
+- ♻️ [**Dump It Like It’s Hot**](https://devpost.com/software/dump-it-like-its-hot) - Gamified litter-collection app built at Hack the Valley X
+
+---
+
+### 🌐 Connect with me
+📫 [farhaansyedali2005@gmail.com](mailto:farhaansyedali2005@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/farhaan-ali/)  
+🖥️ [Portfolio (coming soon)](#)
