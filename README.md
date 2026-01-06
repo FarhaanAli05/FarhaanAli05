@@ -1,3 +1,4 @@
 👋 Hi, I’m Farhaan
-- 🎓 Interested in AI/ML, full-stack development, and mobile app development
+- 🎓 Computer Science student at Queen’s University
+- 🚀 Building and shipping full-stack and mobile apps
 - 📫 Reach me at farhaansyedali2005@gmail.com
